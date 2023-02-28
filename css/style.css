@@ -1,0 +1,153 @@
+/* header */
+
+
+header {
+    padding: 40.89px 117px 100.26px 69px;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+nav {
+    display: inline-block;
+    margin-left: 312px;
+    vertical-align: middle;
+}
+
+.img_1 {
+    width: 375px;
+    height: 106.85;
+    vertical-align: middle;
+}
+
+li {
+    display: inline-block;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 39px;
+    
+}
+.list{
+    color: #0F5009;
+    font-family: 'Nerko One';
+}
+.li_blog {
+    color: #FA1A35;
+    margin-right: 83px;
+
+}
+
+.li_about {
+    margin-left: 83px;
+    margin-right: 83px;
+}
+
+
+/* section */
+
+section {
+    padding: 110px 0 154px 69px;
+    background-color: #1F6519;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.section_img {
+    width: 766px;
+    height: 559px;
+    vertical-align: top;
+}
+
+.div {
+    display: inline-block;
+    width: 448px;
+    margin-left: 91px;
+    font-weight: 400;
+color: #FFFFFF;
+}
+
+.section_h {
+    font-size: 36px;
+    line-height: 44px;
+    margin-left: 125px;
+    font-family: 'Nerko One';
+}
+
+.p {
+    font-style: italic;
+    font-size: 32px;
+    line-height: 42px;
+    margin-top: 35px;
+    font-family: 'PT Serif';
+}
+
+
+/* article */
+
+article {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 92px 216px 137px 207px;
+    text-align: center;
+
+}
+
+
+.article_h {
+    color: #0F5009;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+    margin-bottom: 92px;
+    font-family: 'PT Serif';
+
+}
+
+
+.article_p {
+    color: #1F6519;
+    display: inline-block;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    font-family: 'PT Serif';
+}
+
+
+
+footer {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #1F6519;
+    padding: 77px 118px 70.04px 110.62px;
+   
+}
+
+.footer_p_1 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    color: #F4F4F1;
+display: inline-block;
+margin-right: 617.58px;
+font-family: 'PT Serif';
+}
+
+
+.footer_p_2{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    display: inline-block;
+    font-family: 'Nerko One';
+   
+}
+
+
+
+
+
+
+
